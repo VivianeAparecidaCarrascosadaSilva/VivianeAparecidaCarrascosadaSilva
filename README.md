@@ -1,4 +1,4 @@
-# Olá, eu sou a [Viviane Carrascosa]! 👋
+# Olá, eu sou a Viviane Carrascosa! 👋
 
 Bem-vindo(a) ao meu repositório principal! Aqui é o espaço onde registro a minha transição de carreira, meus aprendizados diários e a evolução dos meus projetos.
 
